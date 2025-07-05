@@ -1,7 +1,8 @@
 SMS Spam Classifier
 This is a web-based application that classifies SMS messages as Spam or Not Spam using machine learning. The model is trained using Natural Language Processing (NLP) techniques and is deployed using Flask.
 
-🔗 Live Project
+- [Live Project](https://projects-bjqn.onrender.com)
+- [GitHub Repository](https://github.com/arpitmishra447/sms_spam_classifier)
 
 📂 Project Overview
 The goal of this project is to help users quickly identify whether an SMS message is spam or not. It’s a real-time text classifier built using a TF-IDF Vectorizer and a Naive Bayes Classifier.
